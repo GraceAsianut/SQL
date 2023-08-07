@@ -1,4 +1,4 @@
-# 📚 AamzingWorks With MySQL Queries 
+# 📚 AdventureWorks Database EDA With MySQL Queries 
 
 
 ## Business Task
