@@ -381,7 +381,7 @@ ORDER BY OrderDate DESC
 
 ***
     
-**6. A query creating a view **
+**11. A query creating a view **
 
 ````sql
 CREATE VIEW vwOrdersALL
